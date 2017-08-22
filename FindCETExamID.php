@@ -13,7 +13,7 @@
         <h1>CET-4、6
           <br>
           <br>准考证号码找回</h1>
-        <form method="post" class="form" action="index.php">
+        <form method="post" class="form" action="FindCETExamID.php">
           <input type="text" name="name" placeholder="姓名">
           <input type="text" name="id" placeholder="身份证号">
           <select name="type" id="">
